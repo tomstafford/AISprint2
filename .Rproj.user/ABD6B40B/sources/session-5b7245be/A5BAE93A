@@ -1,0 +1,31 @@
+{
+    "id": "A5BAE93A",
+    "path": "~/Desktop/AISprint2/index.qmd",
+    "project_path": "index.qmd",
+    "type": "quarto_markdown",
+    "hash": "2586739147",
+    "contents": "",
+    "dirty": false,
+    "created": 1763996451288.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "392:157",
+        "cursorPosition": "14,52",
+        "scrollLine": "2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1763997597,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1763997597432,
+    "read_only": false,
+    "read_only_alternatives": []
+}

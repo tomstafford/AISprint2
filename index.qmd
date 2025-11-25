@@ -8,7 +8,7 @@ Some participants have trouble accessing google hosted files. This page provides
 
 # Workshop 1:
 
-[Workshop 1 slides](docs/02AI_Workshop1.pdf); talk 1: [GRAIL recap](docs/workshop1_2025-11-12_part1.mp4); talk 2: [why experiment](workshop1_2025-11-12_part2.mp4)
+[Workshop 1 slides](docs/02AI_Workshop1.pptx); talk 1: [GRAIL recap](docs/workshop1_2025-11-12_part1.mp4); talk 2: [why experiment](docs/workshop1_2025-11-12_part2.mp4)
 
 [post workshop 1 survey](https://docs.google.com/forms/d/e/1FAIpQLSdFWDoA4eREcuHhqAZMQZQ2ZSDIaIIe-UMQCa69-U6drjiMlQ/viewform?usp=header)
 
